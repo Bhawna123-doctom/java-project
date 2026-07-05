@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Hp/OneDrive/Documents/NetBeansProjects/OnlineJobPortal/web/jsp/seeker/home.jsp</file>
+            <file>file:/C:/Users/Hp/OneDrive/Documents/NetBeansProjects/OnlineJobPortal/web/jsp/seeker/view_jobs.jsp</file>
+            <file>file:/C:/Users/Hp/OneDrive/Documents/NetBeansProjects/OnlineJobPortal/web/jsp/recruiter/post_job.jsp</file>
+            <file>file:/C:/Users/Hp/OneDrive/Documents/NetBeansProjects/OnlineJobPortal/web/index.jsp</file>
+            <file>file:/C:/Users/Hp/OneDrive/Documents/NetBeansProjects/OnlineJobPortal/web/login.jsp</file>
+            <file>file:/C:/Users/Hp/OneDrive/Documents/NetBeansProjects/OnlineJobPortal/web/register.jsp</file>
+            <file>file:/C:/Users/Hp/OneDrive/Documents/NetBeansProjects/OnlineJobPortal/web/jsp/seeker/my_applications.jsp</file>
+            <file>file:/C:/Users/Hp/OneDrive/Documents/NetBeansProjects/OnlineJobPortal/web/jsp/recruiter/view_applications.jsp</file>
+            <file>file:/C:/Users/Hp/OneDrive/Documents/NetBeansProjects/OnlineJobPortal/src/java/com/jobportal/controller/RegisterServlet.java</file>
+            <file>file:/C:/Users/Hp/OneDrive/Documents/NetBeansProjects/OnlineJobPortal/src/java/com/jobportal/controller/LoginServlet.java</file>
+            <file>file:/C:/Users/Hp/OneDrive/Documents/NetBeansProjects/OnlineJobPortal/src/java/com/jobportal/controller/LogoutServlet.java</file>
+            <file>file:/C:/Users/Hp/OneDrive/Documents/NetBeansProjects/OnlineJobPortal/src/java/com/jobportal/controller/DashboardServlet.java</file>
+            <file>file:/C:/Users/Hp/OneDrive/Documents/NetBeansProjects/OnlineJobPortal/src/java/com/jobportal/controller/PostJobServlet.java</file>
+            <file>file:/C:/Users/Hp/OneDrive/Documents/NetBeansProjects/OnlineJobPortal/src/java/com/jobportal/controller/ViewJobsServlet.java</file>
+            <file>file:/C:/Users/Hp/OneDrive/Documents/NetBeansProjects/OnlineJobPortal/src/java/com/jobportal/servlet/ApplyJobServlet.java</file>
+            <file>file:/C:/Users/Hp/OneDrive/Documents/NetBeansProjects/OnlineJobPortal/src/java/com/jobportal/controller/ViewApplicationsServlet.java</file>
+            <file>file:/C:/Users/Hp/OneDrive/Documents/NetBeansProjects/OnlineJobPortal/src/java/com/jobportal/model/User.java</file>
+            <file>file:/C:/Users/Hp/OneDrive/Documents/NetBeansProjects/OnlineJobPortal/src/java/com/jobportal/model/Job.java</file>
+            <file>file:/C:/Users/Hp/OneDrive/Documents/NetBeansProjects/OnlineJobPortal/src/java/com/jobportal/model/Company.java</file>
+            <file>file:/C:/Users/Hp/OneDrive/Documents/NetBeansProjects/OnlineJobPortal/src/java/com/jobportal/model/Application.java</file>
+            <file>file:/C:/Users/Hp/OneDrive/Documents/NetBeansProjects/OnlineJobPortal/src/java/com/jobportal/dao/UserDAO.java</file>
+            <file>file:/C:/Users/Hp/OneDrive/Documents/NetBeansProjects/OnlineJobPortal/src/java/com/jobportal/dao/JobDAO.java</file>
+            <file>file:/C:/Users/Hp/OneDrive/Documents/NetBeansProjects/OnlineJobPortal/src/java/com/jobportal/dao/CompanyDAO.java</file>
+            <file>file:/C:/Users/Hp/OneDrive/Documents/NetBeansProjects/OnlineJobPortal/src/java/com/jobportal/dao/ApplicationDAO.java</file>
+            <file>file:/C:/Users/Hp/OneDrive/Documents/NetBeansProjects/OnlineJobPortal/src/java/com/jobportal/util/DBConnection.java</file>
+            <file>file:/C:/Users/Hp/OneDrive/Documents/NetBeansProjects/OnlineJobPortal/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/Hp/OneDrive/Documents/NetBeansProjects/OnlineJobPortal/web/recruiter_dashboard.jsp</file>
+            <file>file:/C:/Users/Hp/OneDrive/Documents/NetBeansProjects/OnlineJobPortal/web/jsp/seeker/job_details.jsp</file>
+            <file>file:/C:/Users/Hp/OneDrive/Documents/NetBeansProjects/OnlineJobPortal/web/jsp/seeker/update_profile.jsp</file>
+            <file>file:/C:/Users/Hp/OneDrive/Documents/NetBeansProjects/OnlineJobPortal/web/seeker_dashboard.jsp</file>
+            <file>file:/C:/Users/Hp/OneDrive/Documents/NetBeansProjects/OnlineJobPortal/web/common/header.jsp</file>
+            <file>file:/C:/Users/Hp/OneDrive/Documents/NetBeansProjects/OnlineJobPortal/src/java/com/jobportal/servlet/UpdateProfileServlet.java</file>
+            <file>file:/C:/Users/Hp/OneDrive/Documents/NetBeansProjects/OnlineJobPortal/src/java/com/jobportal/controller/ChangePasswordServlet.java</file>
+            <file>file:/C:/Users/Hp/OneDrive/Documents/NetBeansProjects/OnlineJobPortal/web/jsp/seeker/jobs.jsp</file>
+        </group>
+    </open-files>
+</project-private>
